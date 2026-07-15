@@ -1,0 +1,2 @@
+# .github
+ChessEver organization profile
